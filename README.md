@@ -30,3 +30,11 @@ npm run build && npm run export
 # Deploy ke github
 
 klik menu `Action`
+
+![](md/01.png)
+
+scroll ke bawah, kemudian tekan tombol `More continuous integration workflows...`
+(![](md/02.png))
+
+pilih `Node.js` dan tekan <kbd>Setup this workflow</kbd>
+(![](md/03.png))
